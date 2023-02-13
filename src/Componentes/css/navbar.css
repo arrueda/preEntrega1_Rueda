@@ -1,0 +1,14 @@
+.navbar-menu{
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+  margin: 80px;
+}
+
+.navbar-menu-link{
+  color: blue;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 10px;
+  text-transform: uppercase;
+}
